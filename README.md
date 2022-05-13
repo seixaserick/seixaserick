@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @seixaserick, a senior web developer and software architeture with more than 27 year programming non-stop.
-- 👀 I’m interested in share my knowledgement to help other programmers and also be helped when I see difficult paths on the way.
-- 🌱 I’m currently learning different types of ORMs, Flutter and DART for app coding and many automated test tools.
-- 💞️ I’m looking to collaborate on back-end projects (.NET Core or .NET 5.0+), SQL Server or Postgres issues and some WebRTC projects (screensharing, videoconferences etc.).
-- 📫 How to reach me: Send me an email <seixaserick77@gmail.com> for remote job opportunities (full time or part time) or connect through Linkedin <https://www.linkedin.com/in/seixaserick>
-<!---
-seixaserick/seixaserick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I am Erick, a brazilian senior web developer and software architect with over 27 years of non-stop programming.
+- 👀 I'm interested in sharing my knowledge to help other programmers and also being helped when I see difficult paths in the way.
+- 🌱 I’m currently learning NFC, ERC tokens (smart contracts implementations), different types of ORMs, automated test tools, Flutter and DART.
+- 💞️ I’m looking to collaborate on back-end projects (.NET Core or .NET 5.0+), SQL Server or Postgres issues and some WebRTC projects (screensharing and videoconferences).
+- 📫 You can reach me by email <seixaserick77@gmail.com> for remote job opportunities (preffered part time by contract) or for technical issues that you need some help. Feel free to connect with me through Linkedin <https://www.linkedin.com/in/seixaserick> too.
