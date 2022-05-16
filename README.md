@@ -8,7 +8,7 @@
 **Projects and skills**
 
 - SQL Server and PostgresSql Database modeling and tunning
-- Dotnet Core (.NET Core 3.1 or higher) RESTful WebAPIs
+- Dotnet Core RESTful WebAPIs (.NET Core 3.1 or higher) 
 - .NET Framework WebForms and website projects (C# or VB.Net)
 - Windows Server multi-thread background services
 - Console applications (Windows and Linux)
