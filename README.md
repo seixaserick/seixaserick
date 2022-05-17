@@ -18,12 +18,13 @@
   - C#, VB.Net, Javascript
   - SQL Server, PostgresSQL and MySQL, Google Cloud Spanner distributed database, MongoDB
   - WebAPIs RESTful, Background Services, IoT and automations
-  - VueJs, HTML, CSS
+  - VueJs, HTML, CSS, JQuery, Axios, Ajax calls 
   - Redis, PubSub
   - Swagger UI (API documentation)
   - JWT (JSON Web Tokens)
   - Protocol level solutions (RFC standard for SMTP and DNS)
   - Google Cloud Platform (GCP) and AWS specialist 
+  - Ubuntu and Debian bash, GCloud CLI and Windows Servers shell
   - Firewalls, VPNs, DNS and Network configurations
   - Docker & Docker Compose
 
@@ -47,6 +48,6 @@
 - Responsive Web projects (HTML5, CSS3 and Javascript) 
 - Deploy projects in Docker containers like Google Cloud Run (highly scalable containerized applications)
 - Telegram Bot creation and integration
-- Open-source Videoconferencing projects based on WebRTC and <https://meet.jit.si/> (Jitsi Meet open-source lib)
+- Open-source Videoconferencing projects based on WebRTC and <https://github.com/jitsi/jitsi-meet> (Jitsi Meet open-source lib)
 - Complex solutions like e-commerce product search with relevance algorithm and machine learn functionality 
 
