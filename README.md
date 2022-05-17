@@ -48,5 +48,5 @@
 - Deploy projects in Docker containers like Google Cloud Run (highly scalable containerized applications)
 - Telegram Bot creation and integration
 - Open-source Videoconferencing projects based on WebRTC and <https://meet.jit.si/> (Jitsi Meet open-source lib)
-- Complex solutions like e-commerce product search with relevance algorithm and machine learn functionalit 
+- Complex solutions like e-commerce product search with relevance algorithm and machine learn functionality 
 
