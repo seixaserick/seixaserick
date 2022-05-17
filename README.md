@@ -2,7 +2,7 @@
 
 - 👋 Hi, I am Erick, a brazilian senior web developer and software architect with over 27 years carrier of non-stop programming.
 - 👀 I'm a father, married and I've traveled to more than 30 countries. I am interested in sharing my knowledge to help other programmers and also being helped when I see difficult paths in the way.
-- 🌱 I’m currently learning NFC, ERC tokens (smart contracts implementations), different types of ORMs, automated test tools, Flutter and DART.
+- 🌱 I’m currently learning NFC, ERC tokens (smart contracts implementations), different types of ORMs, automated test tools, Flutter and DART, RabbitMQ and Memcached.
 - 💞️ I’m looking to collaborate on back-end projects (.NET Core or .NET 5.0+), SQL Server or Postgres issues and some WebRTC projects (screensharing and videoconferences).
   
 ## How to reach me
@@ -16,7 +16,13 @@
 ## Tech Stack
   - .Net Core, Dotnet 5.0+, .Net Framework 4+ WebForms
   - C#, VB.Net, Javascript
-  - SQL Server, PostgresSQL and MySQL, Google Cloud Spanner distributed database, MongoDB
+  - Databases
+    - SQL Server
+    - PostgresSQL
+    - MySQL
+    - Google Cloud Spanner distributed database
+    - Google BigQuery
+    - MongoDB
   - WebAPIs RESTful, Background Services, IoT and automations
   - VueJs, HTML, CSS, JQuery, Axios, Ajax calls 
   - Redis, PubSub
@@ -34,6 +40,8 @@
 - Retail and franchising software 
 - e-Commerce
 - IoT and automation
+- Google Chrome, MS Edge and Firefox browser Extensions
+- Google Drive, Calendar em other Google integrations
 - Marketing, Survey and poll solutions
 - Industry (MRP and automation)
 - Logistics
