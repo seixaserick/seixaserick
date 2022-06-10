@@ -10,8 +10,7 @@
 
 
 # Stack, business areas, solutions and skills
-## Tech Stack![image](https://user-images.githubusercontent.com/105455948/173146629-c48dd6d4-7ac2-40ba-8450-8120b8f4f506.png)
-
+## Tech Stack
   - .Net Core, Dotnet 5.0+, .Net Framework 4+ WebForms
   - C#, VB.Net, Javascript
   - Databases
