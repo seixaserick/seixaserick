@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on back-end projects (.NET Core or .NET 5.0+), SQL Server or Postgres issues and some WebRTC projects (screensharing and videoconferences).
   
 ## How to reach me
-- 📫 You can reach me by email <seixaserick77@gmail.com> for remote job opportunities (preffered part time by contract) or for technical issues that you need some help. Feel free to connect with me through Linkedin <https://www.linkedin.com/in/seixaserick> as well.
+- 📫 You can reach me by email <seixaserick77@gmail.com> for technical issues that you need help. Feel free to connect with me through Linkedin <https://www.linkedin.com/in/seixaserick> as well.
 
 
 # Stack, business areas, solutions and skills
